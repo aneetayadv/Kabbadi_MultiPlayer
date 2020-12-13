@@ -1,2 +1,2 @@
-# Kabbadi_MultiPlayer
-MultiPlayer Kabbadi with firebase 
+#Multiplayer Kabadi
+Kabadi
